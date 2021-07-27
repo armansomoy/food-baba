@@ -11,7 +11,7 @@ section {
     height: 600px;
 }
 
-#banner{
+#banner {
     padding-top: 50px;
 }
 
@@ -34,6 +34,7 @@ section {
     font-weight: 700;
     margin-bottom: -10px;
 }
+
 .half-width p {
     color: #828282;
     font-size: 20px;
@@ -49,4 +50,27 @@ section {
     border-radius: 25px;
     color: white;
     font-weight: 400;
+}
+
+#about-part {
+    background-image: url(../images/Frame\ 57.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#about-part .half-width h2 {
+    padding-top: 100px;
+    color: #575757;
+    font-size: 40px;
+    line-height: 70px;
+    font-weight: 700;
+    margin-bottom: -10px;
+}
+
+#about-part .half-width p {
+    color: #828282;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 20px;
 }
